@@ -1,0 +1,71 @@
+body {
+  background-color: #363636;
+}
+
+.container {
+  background-color: white;
+  margin-left: 100px;
+  margin-right: 100px;
+  height: 100vh;
+  margin-top: -33px;
+}
+
+#nav-header li {
+  display: inline;
+  margin-right: 10px;
+
+}
+
+#nav-header {
+  text-align: center;
+}
+
+#nav-articles li {
+  display: inline;
+  margin-right: 8px;
+}
+
+#nav-articles {
+  text-align: center;
+}
+
+#site-header {
+  text-align: center;
+  font-family: helvetica;
+  font-size: 20px;
+  display: block;
+  padding-top: 60px;
+  solid: #FFFFFF;
+}
+
+#banner {
+  margin-right: auto;
+  margin-left: auto;
+  width: 970px;
+}
+
+#news {
+  width: 30%;
+  float: left;
+}
+
+#reviews {
+  width: 70%;
+  float: left;
+}
+
+#content {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+#news-column {
+  width: 30%;
+  float: left;
+  border: solid;
+}
+
+#reviews-column {
+  float: left;
+  border: solid;
+}
